@@ -1,1 +1,1 @@
-# google-homepage
+This is G3NDZ3R0's project of deconstructing and reconstructing a website. I will show my skills in deconstructing and reconstructing websites, as well as using dev tools to help me along the way.
